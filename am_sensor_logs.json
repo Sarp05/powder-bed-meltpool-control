@@ -1,0 +1,2502 @@
+[
+    {
+        "time_s": 0,
+        "melt_pool_temp_C": 25,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.1,
+        "melt_pool_temp_C": 147.57,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.2,
+        "melt_pool_temp_C": 266.38,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.3,
+        "melt_pool_temp_C": 381.49,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.4,
+        "melt_pool_temp_C": 497.49,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.5,
+        "melt_pool_temp_C": 611.75,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.6,
+        "melt_pool_temp_C": 728.54,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.7,
+        "melt_pool_temp_C": 838.78,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.8,
+        "melt_pool_temp_C": 952.13,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 0.9,
+        "melt_pool_temp_C": 1062.59,
+        "laser_power_W": 500
+    },
+    {
+        "time_s": 1.0,
+        "melt_pool_temp_C": 1169.71,
+        "laser_power_W": 445.36
+    },
+    {
+        "time_s": 1.1,
+        "melt_pool_temp_C": 1265.91,
+        "laser_power_W": 377.7
+    },
+    {
+        "time_s": 1.2,
+        "melt_pool_temp_C": 1345.55,
+        "laser_power_W": 325.31
+    },
+    {
+        "time_s": 1.3,
+        "melt_pool_temp_C": 1412.9,
+        "laser_power_W": 279.95
+    },
+    {
+        "time_s": 1.4,
+        "melt_pool_temp_C": 1468.68,
+        "laser_power_W": 242.92
+    },
+    {
+        "time_s": 1.5,
+        "melt_pool_temp_C": 1510.03,
+        "laser_power_W": 218.46
+    },
+    {
+        "time_s": 1.6,
+        "melt_pool_temp_C": 1546.37,
+        "laser_power_W": 192.93
+    },
+    {
+        "time_s": 1.7,
+        "melt_pool_temp_C": 1579.66,
+        "laser_power_W": 168.53
+    },
+    {
+        "time_s": 1.8,
+        "melt_pool_temp_C": 1607.55,
+        "laser_power_W": 149.33
+    },
+    {
+        "time_s": 1.9,
+        "melt_pool_temp_C": 1626.29,
+        "laser_power_W": 139.16
+    },
+    {
+        "time_s": 2.0,
+        "melt_pool_temp_C": 1641.38,
+        "laser_power_W": 128.99
+    },
+    {
+        "time_s": 2.1,
+        "melt_pool_temp_C": 1656.67,
+        "laser_power_W": 116.6
+    },
+    {
+        "time_s": 2.2,
+        "melt_pool_temp_C": 1668.29,
+        "laser_power_W": 108.95
+    },
+    {
+        "time_s": 2.3,
+        "melt_pool_temp_C": 1677.89,
+        "laser_power_W": 102.0
+    },
+    {
+        "time_s": 2.4,
+        "melt_pool_temp_C": 1688.38,
+        "laser_power_W": 92.79
+    },
+    {
+        "time_s": 2.5,
+        "melt_pool_temp_C": 1692.65,
+        "laser_power_W": 92.05
+    },
+    {
+        "time_s": 2.6,
+        "melt_pool_temp_C": 1699.14,
+        "laser_power_W": 85.25
+    },
+    {
+        "time_s": 2.7,
+        "melt_pool_temp_C": 1704.58,
+        "laser_power_W": 80.88
+    },
+    {
+        "time_s": 2.8,
+        "melt_pool_temp_C": 1704.54,
+        "laser_power_W": 83.11
+    },
+    {
+        "time_s": 2.9,
+        "melt_pool_temp_C": 1706.97,
+        "laser_power_W": 79.36
+    },
+    {
+        "time_s": 3.0,
+        "melt_pool_temp_C": 1709.18,
+        "laser_power_W": 77.11
+    },
+    {
+        "time_s": 3.1,
+        "melt_pool_temp_C": 1710.21,
+        "laser_power_W": 76.28
+    },
+    {
+        "time_s": 3.2,
+        "melt_pool_temp_C": 1714.04,
+        "laser_power_W": 71.18
+    },
+    {
+        "time_s": 3.3,
+        "melt_pool_temp_C": 1715.94,
+        "laser_power_W": 69.95
+    },
+    {
+        "time_s": 3.4,
+        "melt_pool_temp_C": 1714.27,
+        "laser_power_W": 72.43
+    },
+    {
+        "time_s": 3.5,
+        "melt_pool_temp_C": 1712.65,
+        "laser_power_W": 73.08
+    },
+    {
+        "time_s": 3.6,
+        "melt_pool_temp_C": 1711.1,
+        "laser_power_W": 73.67
+    },
+    {
+        "time_s": 3.7,
+        "melt_pool_temp_C": 1711.91,
+        "laser_power_W": 71.23
+    },
+    {
+        "time_s": 3.8,
+        "melt_pool_temp_C": 1712.74,
+        "laser_power_W": 69.92
+    },
+    {
+        "time_s": 3.9,
+        "melt_pool_temp_C": 1710.32,
+        "laser_power_W": 72.88
+    },
+    {
+        "time_s": 4.0,
+        "melt_pool_temp_C": 1708.92,
+        "laser_power_W": 72.91
+    },
+    {
+        "time_s": 4.1,
+        "melt_pool_temp_C": 1712.4,
+        "laser_power_W": 67.06
+    },
+    {
+        "time_s": 4.2,
+        "melt_pool_temp_C": 1710.53,
+        "laser_power_W": 70.62
+    },
+    {
+        "time_s": 4.3,
+        "melt_pool_temp_C": 1709.84,
+        "laser_power_W": 69.99
+    },
+    {
+        "time_s": 4.4,
+        "melt_pool_temp_C": 1710.6,
+        "laser_power_W": 68.04
+    },
+    {
+        "time_s": 4.5,
+        "melt_pool_temp_C": 1712.6,
+        "laser_power_W": 65.2
+    },
+    {
+        "time_s": 4.6,
+        "melt_pool_temp_C": 1711.58,
+        "laser_power_W": 66.91
+    },
+    {
+        "time_s": 4.7,
+        "melt_pool_temp_C": 1711.3,
+        "laser_power_W": 66.15
+    },
+    {
+        "time_s": 4.8,
+        "melt_pool_temp_C": 1711.64,
+        "laser_power_W": 64.96
+    },
+    {
+        "time_s": 4.9,
+        "melt_pool_temp_C": 1708.41,
+        "laser_power_W": 68.74
+    },
+    {
+        "time_s": 5.0,
+        "melt_pool_temp_C": 1707.8,
+        "laser_power_W": 67.33
+    },
+    {
+        "time_s": 5.1,
+        "melt_pool_temp_C": 1709.47,
+        "laser_power_W": 64.27
+    },
+    {
+        "time_s": 5.2,
+        "melt_pool_temp_C": 1708.47,
+        "laser_power_W": 65.81
+    },
+    {
+        "time_s": 5.3,
+        "melt_pool_temp_C": 1704.93,
+        "laser_power_W": 69.37
+    },
+    {
+        "time_s": 5.4,
+        "melt_pool_temp_C": 1703.64,
+        "laser_power_W": 68.74
+    },
+    {
+        "time_s": 5.5,
+        "melt_pool_temp_C": 1705.4,
+        "laser_power_W": 65.25
+    },
+    {
+        "time_s": 5.6,
+        "melt_pool_temp_C": 1704.85,
+        "laser_power_W": 66.31
+    },
+    {
+        "time_s": 5.7,
+        "melt_pool_temp_C": 1705.25,
+        "laser_power_W": 64.95
+    },
+    {
+        "time_s": 5.8,
+        "melt_pool_temp_C": 1703.47,
+        "laser_power_W": 66.93
+    },
+    {
+        "time_s": 5.9,
+        "melt_pool_temp_C": 1701.91,
+        "laser_power_W": 67.56
+    },
+    {
+        "time_s": 6.0,
+        "melt_pool_temp_C": 1702.13,
+        "laser_power_W": 65.97
+    },
+    {
+        "time_s": 6.1,
+        "melt_pool_temp_C": 1699.02,
+        "laser_power_W": 69.62
+    },
+    {
+        "time_s": 6.2,
+        "melt_pool_temp_C": 1696.88,
+        "laser_power_W": 70.38
+    },
+    {
+        "time_s": 6.3,
+        "melt_pool_temp_C": 1696.22,
+        "laser_power_W": 69.71
+    },
+    {
+        "time_s": 6.4,
+        "melt_pool_temp_C": 1697.11,
+        "laser_power_W": 67.76
+    },
+    {
+        "time_s": 6.5,
+        "melt_pool_temp_C": 1695.22,
+        "laser_power_W": 70.19
+    },
+    {
+        "time_s": 6.6,
+        "melt_pool_temp_C": 1695.33,
+        "laser_power_W": 68.67
+    },
+    {
+        "time_s": 6.7,
+        "melt_pool_temp_C": 1692.4,
+        "laser_power_W": 72.1
+    },
+    {
+        "time_s": 6.8,
+        "melt_pool_temp_C": 1690.76,
+        "laser_power_W": 72.36
+    },
+    {
+        "time_s": 6.9,
+        "melt_pool_temp_C": 1692.76,
+        "laser_power_W": 68.51
+    },
+    {
+        "time_s": 7.0,
+        "melt_pool_temp_C": 1692.37,
+        "laser_power_W": 69.59
+    },
+    {
+        "time_s": 7.1,
+        "melt_pool_temp_C": 1694.8,
+        "laser_power_W": 65.79
+    },
+    {
+        "time_s": 7.2,
+        "melt_pool_temp_C": 1692.36,
+        "laser_power_W": 69.76
+    },
+    {
+        "time_s": 7.3,
+        "melt_pool_temp_C": 1692.75,
+        "laser_power_W": 67.6
+    },
+    {
+        "time_s": 7.4,
+        "melt_pool_temp_C": 1690.79,
+        "laser_power_W": 69.93
+    },
+    {
+        "time_s": 7.5,
+        "melt_pool_temp_C": 1688.58,
+        "laser_power_W": 71.45
+    },
+    {
+        "time_s": 7.6,
+        "melt_pool_temp_C": 1689.5,
+        "laser_power_W": 68.74
+    },
+    {
+        "time_s": 7.7,
+        "melt_pool_temp_C": 1686.72,
+        "laser_power_W": 72.46
+    },
+    {
+        "time_s": 7.8,
+        "melt_pool_temp_C": 1687.71,
+        "laser_power_W": 69.39
+    },
+    {
+        "time_s": 7.9,
+        "melt_pool_temp_C": 1685.53,
+        "laser_power_W": 72.38
+    },
+    {
+        "time_s": 8.0,
+        "melt_pool_temp_C": 1685.7,
+        "laser_power_W": 70.71
+    },
+    {
+        "time_s": 8.1,
+        "melt_pool_temp_C": 1688.13,
+        "laser_power_W": 67.25
+    },
+    {
+        "time_s": 8.2,
+        "melt_pool_temp_C": 1690.38,
+        "laser_power_W": 65.15
+    },
+    {
+        "time_s": 8.3,
+        "melt_pool_temp_C": 1686.47,
+        "laser_power_W": 70.97
+    },
+    {
+        "time_s": 8.4,
+        "melt_pool_temp_C": 1687.95,
+        "laser_power_W": 66.73
+    },
+    {
+        "time_s": 8.5,
+        "melt_pool_temp_C": 1688.4,
+        "laser_power_W": 66.49
+    },
+    {
+        "time_s": 8.6,
+        "melt_pool_temp_C": 1686.58,
+        "laser_power_W": 68.72
+    },
+    {
+        "time_s": 8.7,
+        "melt_pool_temp_C": 1683.54,
+        "laser_power_W": 71.42
+    },
+    {
+        "time_s": 8.8,
+        "melt_pool_temp_C": 1685.09,
+        "laser_power_W": 67.54
+    },
+    {
+        "time_s": 8.9,
+        "melt_pool_temp_C": 1686.71,
+        "laser_power_W": 65.84
+    },
+    {
+        "time_s": 9.0,
+        "melt_pool_temp_C": 1688.1,
+        "laser_power_W": 64.46
+    },
+    {
+        "time_s": 9.1,
+        "melt_pool_temp_C": 1688.07,
+        "laser_power_W": 64.82
+    },
+    {
+        "time_s": 9.2,
+        "melt_pool_temp_C": 1689.98,
+        "laser_power_W": 61.91
+    },
+    {
+        "time_s": 9.3,
+        "melt_pool_temp_C": 1691.04,
+        "laser_power_W": 61.09
+    },
+    {
+        "time_s": 9.4,
+        "melt_pool_temp_C": 1689.0,
+        "laser_power_W": 63.88
+    },
+    {
+        "time_s": 9.5,
+        "melt_pool_temp_C": 1686.96,
+        "laser_power_W": 65.14
+    },
+    {
+        "time_s": 9.6,
+        "melt_pool_temp_C": 1687.72,
+        "laser_power_W": 62.75
+    },
+    {
+        "time_s": 9.7,
+        "melt_pool_temp_C": 1684.32,
+        "laser_power_W": 67.22
+    },
+    {
+        "time_s": 9.8,
+        "melt_pool_temp_C": 1680.86,
+        "laser_power_W": 69.7
+    },
+    {
+        "time_s": 9.9,
+        "melt_pool_temp_C": 1682.94,
+        "laser_power_W": 64.94
+    },
+    {
+        "time_s": 10.0,
+        "melt_pool_temp_C": 1678.99,
+        "laser_power_W": 70.81
+    },
+    {
+        "time_s": 10.1,
+        "melt_pool_temp_C": 1681.46,
+        "laser_power_W": 65.32
+    },
+    {
+        "time_s": 10.2,
+        "melt_pool_temp_C": 1682.93,
+        "laser_power_W": 64.31
+    },
+    {
+        "time_s": 10.3,
+        "melt_pool_temp_C": 1682.1,
+        "laser_power_W": 65.82
+    },
+    {
+        "time_s": 10.4,
+        "melt_pool_temp_C": 1680.34,
+        "laser_power_W": 67.37
+    },
+    {
+        "time_s": 10.5,
+        "melt_pool_temp_C": 1678.89,
+        "laser_power_W": 68.1
+    },
+    {
+        "time_s": 10.6,
+        "melt_pool_temp_C": 1681.37,
+        "laser_power_W": 63.84
+    },
+    {
+        "time_s": 10.7,
+        "melt_pool_temp_C": 1682.52,
+        "laser_power_W": 63.24
+    },
+    {
+        "time_s": 10.8,
+        "melt_pool_temp_C": 1682.62,
+        "laser_power_W": 63.37
+    },
+    {
+        "time_s": 10.9,
+        "melt_pool_temp_C": 1680.27,
+        "laser_power_W": 66.17
+    },
+    {
+        "time_s": 11.0,
+        "melt_pool_temp_C": 1680.84,
+        "laser_power_W": 63.95
+    },
+    {
+        "time_s": 11.1,
+        "melt_pool_temp_C": 1679.92,
+        "laser_power_W": 65.13
+    },
+    {
+        "time_s": 11.2,
+        "melt_pool_temp_C": 1676.7,
+        "laser_power_W": 68.59
+    },
+    {
+        "time_s": 11.3,
+        "melt_pool_temp_C": 1673.96,
+        "laser_power_W": 70.3
+    },
+    {
+        "time_s": 11.4,
+        "melt_pool_temp_C": 1674.24,
+        "laser_power_W": 68.32
+    },
+    {
+        "time_s": 11.5,
+        "melt_pool_temp_C": 1675.05,
+        "laser_power_W": 67.17
+    },
+    {
+        "time_s": 11.6,
+        "melt_pool_temp_C": 1672.27,
+        "laser_power_W": 70.96
+    },
+    {
+        "time_s": 11.7,
+        "melt_pool_temp_C": 1673.63,
+        "laser_power_W": 67.56
+    },
+    {
+        "time_s": 11.8,
+        "melt_pool_temp_C": 1671.1,
+        "laser_power_W": 71.33
+    },
+    {
+        "time_s": 11.9,
+        "melt_pool_temp_C": 1670.81,
+        "laser_power_W": 70.22
+    },
+    {
+        "time_s": 12.0,
+        "melt_pool_temp_C": 1668.23,
+        "laser_power_W": 73.25
+    },
+    {
+        "time_s": 12.1,
+        "melt_pool_temp_C": 1672.21,
+        "laser_power_W": 66.57
+    },
+    {
+        "time_s": 12.2,
+        "melt_pool_temp_C": 1669.25,
+        "laser_power_W": 72.21
+    },
+    {
+        "time_s": 12.3,
+        "melt_pool_temp_C": 1671.98,
+        "laser_power_W": 66.97
+    },
+    {
+        "time_s": 12.4,
+        "melt_pool_temp_C": 1674.09,
+        "laser_power_W": 65.35
+    },
+    {
+        "time_s": 12.5,
+        "melt_pool_temp_C": 1673.51,
+        "laser_power_W": 66.92
+    },
+    {
+        "time_s": 12.6,
+        "melt_pool_temp_C": 1674.35,
+        "laser_power_W": 65.29
+    },
+    {
+        "time_s": 12.7,
+        "melt_pool_temp_C": 1671.11,
+        "laser_power_W": 69.72
+    },
+    {
+        "time_s": 12.8,
+        "melt_pool_temp_C": 1672.17,
+        "laser_power_W": 66.5
+    },
+    {
+        "time_s": 12.9,
+        "melt_pool_temp_C": 1668.75,
+        "laser_power_W": 71.28
+    },
+    {
+        "time_s": 13.0,
+        "melt_pool_temp_C": 1670.82,
+        "laser_power_W": 66.68
+    },
+    {
+        "time_s": 13.1,
+        "melt_pool_temp_C": 1668.48,
+        "laser_power_W": 70.57
+    },
+    {
+        "time_s": 13.2,
+        "melt_pool_temp_C": 1667.58,
+        "laser_power_W": 70.39
+    },
+    {
+        "time_s": 13.3,
+        "melt_pool_temp_C": 1670.34,
+        "laser_power_W": 66.15
+    },
+    {
+        "time_s": 13.4,
+        "melt_pool_temp_C": 1671.9,
+        "laser_power_W": 65.29
+    },
+    {
+        "time_s": 13.5,
+        "melt_pool_temp_C": 1670.52,
+        "laser_power_W": 67.65
+    },
+    {
+        "time_s": 13.6,
+        "melt_pool_temp_C": 1672.63,
+        "laser_power_W": 63.99
+    },
+    {
+        "time_s": 13.7,
+        "melt_pool_temp_C": 1668.8,
+        "laser_power_W": 69.84
+    },
+    {
+        "time_s": 13.8,
+        "melt_pool_temp_C": 1666.35,
+        "laser_power_W": 70.94
+    },
+    {
+        "time_s": 13.9,
+        "melt_pool_temp_C": 1668.62,
+        "laser_power_W": 66.58
+    },
+    {
+        "time_s": 14.0,
+        "melt_pool_temp_C": 1665.78,
+        "laser_power_W": 71.24
+    },
+    {
+        "time_s": 14.1,
+        "melt_pool_temp_C": 1664.52,
+        "laser_power_W": 71.33
+    },
+    {
+        "time_s": 14.2,
+        "melt_pool_temp_C": 1666.25,
+        "laser_power_W": 68.28
+    },
+    {
+        "time_s": 14.3,
+        "melt_pool_temp_C": 1664.83,
+        "laser_power_W": 70.85
+    },
+    {
+        "time_s": 14.4,
+        "melt_pool_temp_C": 1666.62,
+        "laser_power_W": 67.64
+    },
+    {
+        "time_s": 14.5,
+        "melt_pool_temp_C": 1664.94,
+        "laser_power_W": 70.57
+    },
+    {
+        "time_s": 14.6,
+        "melt_pool_temp_C": 1665.82,
+        "laser_power_W": 68.43
+    },
+    {
+        "time_s": 14.7,
+        "melt_pool_temp_C": 1665.63,
+        "laser_power_W": 68.95
+    },
+    {
+        "time_s": 14.8,
+        "melt_pool_temp_C": 1668.21,
+        "laser_power_W": 65.33
+    },
+    {
+        "time_s": 14.9,
+        "melt_pool_temp_C": 1668.42,
+        "laser_power_W": 66.16
+    },
+    {
+        "time_s": 15.0,
+        "melt_pool_temp_C": 1666.57,
+        "laser_power_W": 68.51
+    },
+    {
+        "time_s": 15.1,
+        "melt_pool_temp_C": 1668.9,
+        "laser_power_W": 64.36
+    },
+    {
+        "time_s": 15.2,
+        "melt_pool_temp_C": 1670.29,
+        "laser_power_W": 63.52
+    },
+    {
+        "time_s": 15.3,
+        "melt_pool_temp_C": 1670.88,
+        "laser_power_W": 63.24
+    },
+    {
+        "time_s": 15.4,
+        "melt_pool_temp_C": 1667.25,
+        "laser_power_W": 68.07
+    },
+    {
+        "time_s": 15.5,
+        "melt_pool_temp_C": 1667.7,
+        "laser_power_W": 65.5
+    },
+    {
+        "time_s": 15.6,
+        "melt_pool_temp_C": 1666.43,
+        "laser_power_W": 67.21
+    },
+    {
+        "time_s": 15.7,
+        "melt_pool_temp_C": 1667.53,
+        "laser_power_W": 64.98
+    },
+    {
+        "time_s": 15.8,
+        "melt_pool_temp_C": 1663.86,
+        "laser_power_W": 70.16
+    },
+    {
+        "time_s": 15.9,
+        "melt_pool_temp_C": 1661.53,
+        "laser_power_W": 71.24
+    },
+    {
+        "time_s": 16.0,
+        "melt_pool_temp_C": 1659.33,
+        "laser_power_W": 72.83
+    },
+    {
+        "time_s": 16.1,
+        "melt_pool_temp_C": 1661.35,
+        "laser_power_W": 68.99
+    },
+    {
+        "time_s": 16.2,
+        "melt_pool_temp_C": 1661.19,
+        "laser_power_W": 70.1
+    },
+    {
+        "time_s": 16.3,
+        "melt_pool_temp_C": 1660.39,
+        "laser_power_W": 70.96
+    },
+    {
+        "time_s": 16.4,
+        "melt_pool_temp_C": 1659.41,
+        "laser_power_W": 71.74
+    },
+    {
+        "time_s": 16.5,
+        "melt_pool_temp_C": 1662.35,
+        "laser_power_W": 67.3
+    },
+    {
+        "time_s": 16.6,
+        "melt_pool_temp_C": 1660.4,
+        "laser_power_W": 71.2
+    },
+    {
+        "time_s": 16.7,
+        "melt_pool_temp_C": 1660.21,
+        "laser_power_W": 70.37
+    },
+    {
+        "time_s": 16.8,
+        "melt_pool_temp_C": 1662.4,
+        "laser_power_W": 67.31
+    },
+    {
+        "time_s": 16.9,
+        "melt_pool_temp_C": 1662.72,
+        "laser_power_W": 67.86
+    },
+    {
+        "time_s": 17.0,
+        "melt_pool_temp_C": 1663.04,
+        "laser_power_W": 67.47
+    },
+    {
+        "time_s": 17.1,
+        "melt_pool_temp_C": 1665.14,
+        "laser_power_W": 64.75
+    },
+    {
+        "time_s": 17.2,
+        "melt_pool_temp_C": 1665.95,
+        "laser_power_W": 64.59
+    },
+    {
+        "time_s": 17.3,
+        "melt_pool_temp_C": 1664.41,
+        "laser_power_W": 66.85
+    },
+    {
+        "time_s": 17.4,
+        "melt_pool_temp_C": 1665.45,
+        "laser_power_W": 64.58
+    },
+    {
+        "time_s": 17.5,
+        "melt_pool_temp_C": 1666.19,
+        "laser_power_W": 63.97
+    },
+    {
+        "time_s": 17.6,
+        "melt_pool_temp_C": 1664.86,
+        "laser_power_W": 65.92
+    },
+    {
+        "time_s": 17.7,
+        "melt_pool_temp_C": 1667.23,
+        "laser_power_W": 62.0
+    },
+    {
+        "time_s": 17.8,
+        "melt_pool_temp_C": 1665.96,
+        "laser_power_W": 64.68
+    },
+    {
+        "time_s": 17.9,
+        "melt_pool_temp_C": 1663.14,
+        "laser_power_W": 67.58
+    },
+    {
+        "time_s": 18.0,
+        "melt_pool_temp_C": 1663.2,
+        "laser_power_W": 65.97
+    },
+    {
+        "time_s": 18.1,
+        "melt_pool_temp_C": 1663.99,
+        "laser_power_W": 64.82
+    },
+    {
+        "time_s": 18.2,
+        "melt_pool_temp_C": 1664.17,
+        "laser_power_W": 64.85
+    },
+    {
+        "time_s": 18.3,
+        "melt_pool_temp_C": 1665.57,
+        "laser_power_W": 62.96
+    },
+    {
+        "time_s": 18.4,
+        "melt_pool_temp_C": 1662.75,
+        "laser_power_W": 67.19
+    },
+    {
+        "time_s": 18.5,
+        "melt_pool_temp_C": 1663.71,
+        "laser_power_W": 64.4
+    },
+    {
+        "time_s": 18.6,
+        "melt_pool_temp_C": 1660.31,
+        "laser_power_W": 69.2
+    },
+    {
+        "time_s": 18.7,
+        "melt_pool_temp_C": 1661.43,
+        "laser_power_W": 65.92
+    },
+    {
+        "time_s": 18.8,
+        "melt_pool_temp_C": 1661.73,
+        "laser_power_W": 65.98
+    },
+    {
+        "time_s": 18.9,
+        "melt_pool_temp_C": 1661.05,
+        "laser_power_W": 66.9
+    },
+    {
+        "time_s": 19.0,
+        "melt_pool_temp_C": 1660.85,
+        "laser_power_W": 66.71
+    },
+    {
+        "time_s": 19.1,
+        "melt_pool_temp_C": 1663.07,
+        "laser_power_W": 63.6
+    },
+    {
+        "time_s": 19.2,
+        "melt_pool_temp_C": 1663.55,
+        "laser_power_W": 63.94
+    },
+    {
+        "time_s": 19.3,
+        "melt_pool_temp_C": 1664.28,
+        "laser_power_W": 63.09
+    },
+    {
+        "time_s": 19.4,
+        "melt_pool_temp_C": 1662.69,
+        "laser_power_W": 65.4
+    },
+    {
+        "time_s": 19.5,
+        "melt_pool_temp_C": 1663.2,
+        "laser_power_W": 63.81
+    },
+    {
+        "time_s": 19.6,
+        "melt_pool_temp_C": 1661.06,
+        "laser_power_W": 66.74
+    },
+    {
+        "time_s": 19.7,
+        "melt_pool_temp_C": 1661.37,
+        "laser_power_W": 65.14
+    },
+    {
+        "time_s": 19.8,
+        "melt_pool_temp_C": 1660.61,
+        "laser_power_W": 66.19
+    },
+    {
+        "time_s": 19.9,
+        "melt_pool_temp_C": 1657.67,
+        "laser_power_W": 69.56
+    },
+    {
+        "time_s": 20.0,
+        "melt_pool_temp_C": 1656.93,
+        "laser_power_W": 68.97
+    },
+    {
+        "time_s": 20.1,
+        "melt_pool_temp_C": 1656.19,
+        "laser_power_W": 69.51
+    },
+    {
+        "time_s": 20.2,
+        "melt_pool_temp_C": 1654.67,
+        "laser_power_W": 71.07
+    },
+    {
+        "time_s": 20.3,
+        "melt_pool_temp_C": 1657.37,
+        "laser_power_W": 66.72
+    },
+    {
+        "time_s": 20.4,
+        "melt_pool_temp_C": 1655.85,
+        "laser_power_W": 69.98
+    },
+    {
+        "time_s": 20.5,
+        "melt_pool_temp_C": 1657.53,
+        "laser_power_W": 66.97
+    },
+    {
+        "time_s": 20.6,
+        "melt_pool_temp_C": 1655.91,
+        "laser_power_W": 69.86
+    },
+    {
+        "time_s": 20.7,
+        "melt_pool_temp_C": 1654.74,
+        "laser_power_W": 70.52
+    },
+    {
+        "time_s": 20.8,
+        "melt_pool_temp_C": 1654.21,
+        "laser_power_W": 70.59
+    },
+    {
+        "time_s": 20.9,
+        "melt_pool_temp_C": 1655.62,
+        "laser_power_W": 68.42
+    },
+    {
+        "time_s": 21.0,
+        "melt_pool_temp_C": 1654.6,
+        "laser_power_W": 70.42
+    },
+    {
+        "time_s": 21.1,
+        "melt_pool_temp_C": 1652.58,
+        "laser_power_W": 72.5
+    },
+    {
+        "time_s": 21.2,
+        "melt_pool_temp_C": 1651.76,
+        "laser_power_W": 72.55
+    },
+    {
+        "time_s": 21.3,
+        "melt_pool_temp_C": 1652.27,
+        "laser_power_W": 71.45
+    },
+    {
+        "time_s": 21.4,
+        "melt_pool_temp_C": 1651.39,
+        "laser_power_W": 72.83
+    },
+    {
+        "time_s": 21.5,
+        "melt_pool_temp_C": 1652.54,
+        "laser_power_W": 70.87
+    },
+    {
+        "time_s": 21.6,
+        "melt_pool_temp_C": 1655.45,
+        "laser_power_W": 67.6
+    },
+    {
+        "time_s": 21.7,
+        "melt_pool_temp_C": 1656.79,
+        "laser_power_W": 67.26
+    },
+    {
+        "time_s": 21.8,
+        "melt_pool_temp_C": 1653.9,
+        "laser_power_W": 71.64
+    },
+    {
+        "time_s": 21.9,
+        "melt_pool_temp_C": 1656.02,
+        "laser_power_W": 67.39
+    },
+    {
+        "time_s": 22.0,
+        "melt_pool_temp_C": 1653.6,
+        "laser_power_W": 71.55
+    },
+    {
+        "time_s": 22.1,
+        "melt_pool_temp_C": 1652.75,
+        "laser_power_W": 71.41
+    },
+    {
+        "time_s": 22.2,
+        "melt_pool_temp_C": 1651.36,
+        "laser_power_W": 72.78
+    },
+    {
+        "time_s": 22.3,
+        "melt_pool_temp_C": 1655.52,
+        "laser_power_W": 66.63
+    },
+    {
+        "time_s": 22.4,
+        "melt_pool_temp_C": 1654.63,
+        "laser_power_W": 69.82
+    },
+    {
+        "time_s": 22.5,
+        "melt_pool_temp_C": 1653.77,
+        "laser_power_W": 70.46
+    },
+    {
+        "time_s": 22.6,
+        "melt_pool_temp_C": 1655.72,
+        "laser_power_W": 67.43
+    },
+    {
+        "time_s": 22.7,
+        "melt_pool_temp_C": 1657.13,
+        "laser_power_W": 66.5
+    },
+    {
+        "time_s": 22.8,
+        "melt_pool_temp_C": 1658.43,
+        "laser_power_W": 65.44
+    },
+    {
+        "time_s": 22.9,
+        "melt_pool_temp_C": 1660.5,
+        "laser_power_W": 63.29
+    },
+    {
+        "time_s": 23.0,
+        "melt_pool_temp_C": 1661.11,
+        "laser_power_W": 63.41
+    },
+    {
+        "time_s": 23.1,
+        "melt_pool_temp_C": 1661.4,
+        "laser_power_W": 63.24
+    },
+    {
+        "time_s": 23.2,
+        "melt_pool_temp_C": 1660.12,
+        "laser_power_W": 64.94
+    },
+    {
+        "time_s": 23.3,
+        "melt_pool_temp_C": 1661.07,
+        "laser_power_W": 62.95
+    },
+    {
+        "time_s": 23.4,
+        "melt_pool_temp_C": 1660.54,
+        "laser_power_W": 64.01
+    },
+    {
+        "time_s": 23.5,
+        "melt_pool_temp_C": 1657.33,
+        "laser_power_W": 67.85
+    },
+    {
+        "time_s": 23.6,
+        "melt_pool_temp_C": 1654.55,
+        "laser_power_W": 69.8
+    },
+    {
+        "time_s": 23.7,
+        "melt_pool_temp_C": 1657.87,
+        "laser_power_W": 64.03
+    },
+    {
+        "time_s": 23.8,
+        "melt_pool_temp_C": 1659.48,
+        "laser_power_W": 63.5
+    },
+    {
+        "time_s": 23.9,
+        "melt_pool_temp_C": 1659.41,
+        "laser_power_W": 64.3
+    },
+    {
+        "time_s": 24.0,
+        "melt_pool_temp_C": 1660.49,
+        "laser_power_W": 62.76
+    },
+    {
+        "time_s": 24.1,
+        "melt_pool_temp_C": 1660.3,
+        "laser_power_W": 63.43
+    },
+    {
+        "time_s": 24.2,
+        "melt_pool_temp_C": 1658.97,
+        "laser_power_W": 64.99
+    },
+    {
+        "time_s": 24.3,
+        "melt_pool_temp_C": 1660.94,
+        "laser_power_W": 61.64
+    },
+    {
+        "time_s": 24.4,
+        "melt_pool_temp_C": 1660.11,
+        "laser_power_W": 63.61
+    },
+    {
+        "time_s": 24.5,
+        "melt_pool_temp_C": 1656.82,
+        "laser_power_W": 67.41
+    },
+    {
+        "time_s": 24.6,
+        "melt_pool_temp_C": 1655.11,
+        "laser_power_W": 67.93
+    },
+    {
+        "time_s": 24.7,
+        "melt_pool_temp_C": 1657.44,
+        "laser_power_W": 63.97
+    },
+    {
+        "time_s": 24.8,
+        "melt_pool_temp_C": 1655.26,
+        "laser_power_W": 67.92
+    },
+    {
+        "time_s": 24.9,
+        "melt_pool_temp_C": 1654.17,
+        "laser_power_W": 68.2
+    },
+    {
+        "time_s": 25.0,
+        "melt_pool_temp_C": 1655.86,
+        "laser_power_W": 65.4
+    },
+    {
+        "time_s": 25.1,
+        "melt_pool_temp_C": 1657.4,
+        "laser_power_W": 64.17
+    },
+    {
+        "time_s": 25.2,
+        "melt_pool_temp_C": 1655.58,
+        "laser_power_W": 67.25
+    },
+    {
+        "time_s": 25.3,
+        "melt_pool_temp_C": 1655.29,
+        "laser_power_W": 66.67
+    },
+    {
+        "time_s": 25.4,
+        "melt_pool_temp_C": 1652.25,
+        "laser_power_W": 70.45
+    },
+    {
+        "time_s": 25.5,
+        "melt_pool_temp_C": 1654.99,
+        "laser_power_W": 65.32
+    },
+    {
+        "time_s": 25.6,
+        "melt_pool_temp_C": 1657.36,
+        "laser_power_W": 63.54
+    },
+    {
+        "time_s": 25.7,
+        "melt_pool_temp_C": 1653.76,
+        "laser_power_W": 69.35
+    },
+    {
+        "time_s": 25.8,
+        "melt_pool_temp_C": 1656.39,
+        "laser_power_W": 64.08
+    },
+    {
+        "time_s": 25.9,
+        "melt_pool_temp_C": 1654.35,
+        "laser_power_W": 68.0
+    },
+    {
+        "time_s": 26.0,
+        "melt_pool_temp_C": 1656.46,
+        "laser_power_W": 64.18
+    },
+    {
+        "time_s": 26.1,
+        "melt_pool_temp_C": 1657.0,
+        "laser_power_W": 64.46
+    },
+    {
+        "time_s": 26.2,
+        "melt_pool_temp_C": 1654.11,
+        "laser_power_W": 68.45
+    },
+    {
+        "time_s": 26.3,
+        "melt_pool_temp_C": 1656.01,
+        "laser_power_W": 64.46
+    },
+    {
+        "time_s": 26.4,
+        "melt_pool_temp_C": 1654.35,
+        "laser_power_W": 67.53
+    },
+    {
+        "time_s": 26.5,
+        "melt_pool_temp_C": 1654.8,
+        "laser_power_W": 66.08
+    },
+    {
+        "time_s": 26.6,
+        "melt_pool_temp_C": 1654.66,
+        "laser_power_W": 66.43
+    },
+    {
+        "time_s": 26.7,
+        "melt_pool_temp_C": 1651.55,
+        "laser_power_W": 70.39
+    },
+    {
+        "time_s": 26.8,
+        "melt_pool_temp_C": 1650.22,
+        "laser_power_W": 70.56
+    },
+    {
+        "time_s": 26.9,
+        "melt_pool_temp_C": 1651.39,
+        "laser_power_W": 68.37
+    },
+    {
+        "time_s": 27.0,
+        "melt_pool_temp_C": 1654.53,
+        "laser_power_W": 64.82
+    },
+    {
+        "time_s": 27.1,
+        "melt_pool_temp_C": 1653.49,
+        "laser_power_W": 67.71
+    },
+    {
+        "time_s": 27.2,
+        "melt_pool_temp_C": 1652.44,
+        "laser_power_W": 68.53
+    },
+    {
+        "time_s": 27.3,
+        "melt_pool_temp_C": 1650.95,
+        "laser_power_W": 69.93
+    },
+    {
+        "time_s": 27.4,
+        "melt_pool_temp_C": 1651.18,
+        "laser_power_W": 68.88
+    },
+    {
+        "time_s": 27.5,
+        "melt_pool_temp_C": 1653.07,
+        "laser_power_W": 66.5
+    },
+    {
+        "time_s": 27.6,
+        "melt_pool_temp_C": 1653.0,
+        "laser_power_W": 67.5
+    },
+    {
+        "time_s": 27.7,
+        "melt_pool_temp_C": 1651.2,
+        "laser_power_W": 69.8
+    },
+    {
+        "time_s": 27.8,
+        "melt_pool_temp_C": 1652.79,
+        "laser_power_W": 66.81
+    },
+    {
+        "time_s": 27.9,
+        "melt_pool_temp_C": 1649.93,
+        "laser_power_W": 71.32
+    },
+    {
+        "time_s": 28.0,
+        "melt_pool_temp_C": 1651.98,
+        "laser_power_W": 67.21
+    },
+    {
+        "time_s": 28.1,
+        "melt_pool_temp_C": 1652.29,
+        "laser_power_W": 67.8
+    },
+    {
+        "time_s": 28.2,
+        "melt_pool_temp_C": 1652.76,
+        "laser_power_W": 67.32
+    },
+    {
+        "time_s": 28.3,
+        "melt_pool_temp_C": 1654.07,
+        "laser_power_W": 65.81
+    },
+    {
+        "time_s": 28.4,
+        "melt_pool_temp_C": 1655.71,
+        "laser_power_W": 64.28
+    },
+    {
+        "time_s": 28.5,
+        "melt_pool_temp_C": 1655.07,
+        "laser_power_W": 65.88
+    },
+    {
+        "time_s": 28.6,
+        "melt_pool_temp_C": 1651.94,
+        "laser_power_W": 69.6
+    },
+    {
+        "time_s": 28.7,
+        "melt_pool_temp_C": 1652.61,
+        "laser_power_W": 67.15
+    },
+    {
+        "time_s": 28.8,
+        "melt_pool_temp_C": 1649.55,
+        "laser_power_W": 71.47
+    },
+    {
+        "time_s": 28.9,
+        "melt_pool_temp_C": 1649.49,
+        "laser_power_W": 70.02
+    },
+    {
+        "time_s": 29.0,
+        "melt_pool_temp_C": 1647.18,
+        "laser_power_W": 73.01
+    },
+    {
+        "time_s": 29.1,
+        "melt_pool_temp_C": 1648.37,
+        "laser_power_W": 70.33
+    },
+    {
+        "time_s": 29.2,
+        "melt_pool_temp_C": 1647.44,
+        "laser_power_W": 72.16
+    },
+    {
+        "time_s": 29.3,
+        "melt_pool_temp_C": 1646.24,
+        "laser_power_W": 73.3
+    },
+    {
+        "time_s": 29.4,
+        "melt_pool_temp_C": 1648.92,
+        "laser_power_W": 69.21
+    },
+    {
+        "time_s": 29.5,
+        "melt_pool_temp_C": 1649.32,
+        "laser_power_W": 70.04
+    },
+    {
+        "time_s": 29.6,
+        "melt_pool_temp_C": 1647.56,
+        "laser_power_W": 72.56
+    },
+    {
+        "time_s": 29.7,
+        "melt_pool_temp_C": 1647.24,
+        "laser_power_W": 72.12
+    },
+    {
+        "time_s": 29.8,
+        "melt_pool_temp_C": 1650.28,
+        "laser_power_W": 68.01
+    },
+    {
+        "time_s": 29.9,
+        "melt_pool_temp_C": 1653.25,
+        "laser_power_W": 65.64
+    },
+    {
+        "time_s": 30.0,
+        "melt_pool_temp_C": 1653.11,
+        "laser_power_W": 67.27
+    },
+    {
+        "time_s": 30.1,
+        "melt_pool_temp_C": 1655.36,
+        "laser_power_W": 64.22
+    },
+    {
+        "time_s": 30.2,
+        "melt_pool_temp_C": 1656.4,
+        "laser_power_W": 63.93
+    },
+    {
+        "time_s": 30.3,
+        "melt_pool_temp_C": 1655.9,
+        "laser_power_W": 65.04
+    },
+    {
+        "time_s": 30.4,
+        "melt_pool_temp_C": 1653.27,
+        "laser_power_W": 68.18
+    },
+    {
+        "time_s": 30.5,
+        "melt_pool_temp_C": 1653.25,
+        "laser_power_W": 66.85
+    },
+    {
+        "time_s": 30.6,
+        "melt_pool_temp_C": 1650.05,
+        "laser_power_W": 71.01
+    },
+    {
+        "time_s": 30.7,
+        "melt_pool_temp_C": 1652.58,
+        "laser_power_W": 66.09
+    },
+    {
+        "time_s": 30.8,
+        "melt_pool_temp_C": 1654.22,
+        "laser_power_W": 65.18
+    },
+    {
+        "time_s": 30.9,
+        "melt_pool_temp_C": 1654.95,
+        "laser_power_W": 65.01
+    },
+    {
+        "time_s": 31.0,
+        "melt_pool_temp_C": 1655.03,
+        "laser_power_W": 65.21
+    },
+    {
+        "time_s": 31.1,
+        "melt_pool_temp_C": 1654.04,
+        "laser_power_W": 66.5
+    },
+    {
+        "time_s": 31.2,
+        "melt_pool_temp_C": 1654.14,
+        "laser_power_W": 65.83
+    },
+    {
+        "time_s": 31.3,
+        "melt_pool_temp_C": 1655.23,
+        "laser_power_W": 64.42
+    },
+    {
+        "time_s": 31.4,
+        "melt_pool_temp_C": 1654.93,
+        "laser_power_W": 65.3
+    },
+    {
+        "time_s": 31.5,
+        "melt_pool_temp_C": 1655.37,
+        "laser_power_W": 64.53
+    },
+    {
+        "time_s": 31.6,
+        "melt_pool_temp_C": 1652.58,
+        "laser_power_W": 68.35
+    },
+    {
+        "time_s": 31.7,
+        "melt_pool_temp_C": 1650.08,
+        "laser_power_W": 70.2
+    },
+    {
+        "time_s": 31.8,
+        "melt_pool_temp_C": 1648.27,
+        "laser_power_W": 71.33
+    },
+    {
+        "time_s": 31.9,
+        "melt_pool_temp_C": 1650.71,
+        "laser_power_W": 67.24
+    },
+    {
+        "time_s": 32.0,
+        "melt_pool_temp_C": 1653.07,
+        "laser_power_W": 65.35
+    },
+    {
+        "time_s": 32.1,
+        "melt_pool_temp_C": 1655.24,
+        "laser_power_W": 63.67
+    },
+    {
+        "time_s": 32.2,
+        "melt_pool_temp_C": 1654.14,
+        "laser_power_W": 66.13
+    },
+    {
+        "time_s": 32.3,
+        "melt_pool_temp_C": 1652.94,
+        "laser_power_W": 67.12
+    },
+    {
+        "time_s": 32.4,
+        "melt_pool_temp_C": 1654.93,
+        "laser_power_W": 63.89
+    },
+    {
+        "time_s": 32.5,
+        "melt_pool_temp_C": 1652.48,
+        "laser_power_W": 68.04
+    },
+    {
+        "time_s": 32.6,
+        "melt_pool_temp_C": 1654.18,
+        "laser_power_W": 64.56
+    },
+    {
+        "time_s": 32.7,
+        "melt_pool_temp_C": 1651.78,
+        "laser_power_W": 68.51
+    },
+    {
+        "time_s": 32.8,
+        "melt_pool_temp_C": 1649.41,
+        "laser_power_W": 70.4
+    },
+    {
+        "time_s": 32.9,
+        "melt_pool_temp_C": 1649.43,
+        "laser_power_W": 69.2
+    },
+    {
+        "time_s": 33.0,
+        "melt_pool_temp_C": 1651.89,
+        "laser_power_W": 65.98
+    },
+    {
+        "time_s": 33.1,
+        "melt_pool_temp_C": 1654.0,
+        "laser_power_W": 64.44
+    },
+    {
+        "time_s": 33.2,
+        "melt_pool_temp_C": 1654.73,
+        "laser_power_W": 64.5
+    },
+    {
+        "time_s": 33.3,
+        "melt_pool_temp_C": 1651.55,
+        "laser_power_W": 68.97
+    },
+    {
+        "time_s": 33.4,
+        "melt_pool_temp_C": 1654.82,
+        "laser_power_W": 63.09
+    },
+    {
+        "time_s": 33.5,
+        "melt_pool_temp_C": 1653.32,
+        "laser_power_W": 66.64
+    },
+    {
+        "time_s": 33.6,
+        "melt_pool_temp_C": 1651.14,
+        "laser_power_W": 68.72
+    },
+    {
+        "time_s": 33.7,
+        "melt_pool_temp_C": 1650.73,
+        "laser_power_W": 68.15
+    },
+    {
+        "time_s": 33.8,
+        "melt_pool_temp_C": 1651.95,
+        "laser_power_W": 66.33
+    },
+    {
+        "time_s": 33.9,
+        "melt_pool_temp_C": 1653.92,
+        "laser_power_W": 64.35
+    },
+    {
+        "time_s": 34.0,
+        "melt_pool_temp_C": 1651.56,
+        "laser_power_W": 68.39
+    },
+    {
+        "time_s": 34.1,
+        "melt_pool_temp_C": 1651.48,
+        "laser_power_W": 67.29
+    },
+    {
+        "time_s": 34.2,
+        "melt_pool_temp_C": 1652.12,
+        "laser_power_W": 66.41
+    },
+    {
+        "time_s": 34.3,
+        "melt_pool_temp_C": 1653.44,
+        "laser_power_W": 64.97
+    },
+    {
+        "time_s": 34.4,
+        "melt_pool_temp_C": 1653.32,
+        "laser_power_W": 65.75
+    },
+    {
+        "time_s": 34.5,
+        "melt_pool_temp_C": 1654.06,
+        "laser_power_W": 64.69
+    },
+    {
+        "time_s": 34.6,
+        "melt_pool_temp_C": 1652.07,
+        "laser_power_W": 67.63
+    },
+    {
+        "time_s": 34.7,
+        "melt_pool_temp_C": 1649.98,
+        "laser_power_W": 69.34
+    },
+    {
+        "time_s": 34.8,
+        "melt_pool_temp_C": 1650.54,
+        "laser_power_W": 67.57
+    },
+    {
+        "time_s": 34.9,
+        "melt_pool_temp_C": 1650.71,
+        "laser_power_W": 67.62
+    },
+    {
+        "time_s": 35.0,
+        "melt_pool_temp_C": 1652.76,
+        "laser_power_W": 65.02
+    },
+    {
+        "time_s": 35.1,
+        "melt_pool_temp_C": 1649.22,
+        "laser_power_W": 70.65
+    },
+    {
+        "time_s": 35.2,
+        "melt_pool_temp_C": 1652.75,
+        "laser_power_W": 64.27
+    },
+    {
+        "time_s": 35.3,
+        "melt_pool_temp_C": 1651.63,
+        "laser_power_W": 67.47
+    },
+    {
+        "time_s": 35.4,
+        "melt_pool_temp_C": 1652.58,
+        "laser_power_W": 65.64
+    },
+    {
+        "time_s": 35.5,
+        "melt_pool_temp_C": 1654.21,
+        "laser_power_W": 63.97
+    },
+    {
+        "time_s": 35.6,
+        "melt_pool_temp_C": 1651.38,
+        "laser_power_W": 68.44
+    },
+    {
+        "time_s": 35.7,
+        "melt_pool_temp_C": 1649.72,
+        "laser_power_W": 69.18
+    },
+    {
+        "time_s": 35.8,
+        "melt_pool_temp_C": 1652.3,
+        "laser_power_W": 64.98
+    },
+    {
+        "time_s": 35.9,
+        "melt_pool_temp_C": 1654.11,
+        "laser_power_W": 63.88
+    },
+    {
+        "time_s": 36.0,
+        "melt_pool_temp_C": 1655.79,
+        "laser_power_W": 62.53
+    },
+    {
+        "time_s": 36.1,
+        "melt_pool_temp_C": 1652.25,
+        "laser_power_W": 67.96
+    },
+    {
+        "time_s": 36.2,
+        "melt_pool_temp_C": 1650.32,
+        "laser_power_W": 68.69
+    },
+    {
+        "time_s": 36.3,
+        "melt_pool_temp_C": 1651.75,
+        "laser_power_W": 65.85
+    },
+    {
+        "time_s": 36.4,
+        "melt_pool_temp_C": 1651.77,
+        "laser_power_W": 66.53
+    },
+    {
+        "time_s": 36.5,
+        "melt_pool_temp_C": 1650.73,
+        "laser_power_W": 67.88
+    },
+    {
+        "time_s": 36.6,
+        "melt_pool_temp_C": 1650.08,
+        "laser_power_W": 68.2
+    },
+    {
+        "time_s": 36.7,
+        "melt_pool_temp_C": 1652.85,
+        "laser_power_W": 64.25
+    },
+    {
+        "time_s": 36.8,
+        "melt_pool_temp_C": 1653.89,
+        "laser_power_W": 64.25
+    },
+    {
+        "time_s": 36.9,
+        "melt_pool_temp_C": 1654.73,
+        "laser_power_W": 63.63
+    },
+    {
+        "time_s": 37.0,
+        "melt_pool_temp_C": 1651.27,
+        "laser_power_W": 68.53
+    },
+    {
+        "time_s": 37.1,
+        "melt_pool_temp_C": 1651.61,
+        "laser_power_W": 66.34
+    },
+    {
+        "time_s": 37.2,
+        "melt_pool_temp_C": 1654.0,
+        "laser_power_W": 63.37
+    },
+    {
+        "time_s": 37.3,
+        "melt_pool_temp_C": 1655.61,
+        "laser_power_W": 62.41
+    },
+    {
+        "time_s": 37.4,
+        "melt_pool_temp_C": 1656.45,
+        "laser_power_W": 62.05
+    },
+    {
+        "time_s": 37.5,
+        "melt_pool_temp_C": 1656.28,
+        "laser_power_W": 62.63
+    },
+    {
+        "time_s": 37.6,
+        "melt_pool_temp_C": 1656.19,
+        "laser_power_W": 62.61
+    },
+    {
+        "time_s": 37.7,
+        "melt_pool_temp_C": 1654.71,
+        "laser_power_W": 64.43
+    },
+    {
+        "time_s": 37.8,
+        "melt_pool_temp_C": 1654.28,
+        "laser_power_W": 64.22
+    },
+    {
+        "time_s": 37.9,
+        "melt_pool_temp_C": 1651.26,
+        "laser_power_W": 67.92
+    },
+    {
+        "time_s": 38.0,
+        "melt_pool_temp_C": 1653.85,
+        "laser_power_W": 63.0
+    },
+    {
+        "time_s": 38.1,
+        "melt_pool_temp_C": 1654.26,
+        "laser_power_W": 63.71
+    },
+    {
+        "time_s": 38.2,
+        "melt_pool_temp_C": 1652.82,
+        "laser_power_W": 65.76
+    },
+    {
+        "time_s": 38.3,
+        "melt_pool_temp_C": 1653.02,
+        "laser_power_W": 64.75
+    },
+    {
+        "time_s": 38.4,
+        "melt_pool_temp_C": 1655.18,
+        "laser_power_W": 62.0
+    },
+    {
+        "time_s": 38.5,
+        "melt_pool_temp_C": 1654.68,
+        "laser_power_W": 63.67
+    },
+    {
+        "time_s": 38.6,
+        "melt_pool_temp_C": 1652.56,
+        "laser_power_W": 66.16
+    },
+    {
+        "time_s": 38.7,
+        "melt_pool_temp_C": 1652.55,
+        "laser_power_W": 65.09
+    },
+    {
+        "time_s": 38.8,
+        "melt_pool_temp_C": 1652.6,
+        "laser_power_W": 65.0
+    },
+    {
+        "time_s": 38.9,
+        "melt_pool_temp_C": 1649.37,
+        "laser_power_W": 69.22
+    },
+    {
+        "time_s": 39.0,
+        "melt_pool_temp_C": 1651.68,
+        "laser_power_W": 64.58
+    },
+    {
+        "time_s": 39.1,
+        "melt_pool_temp_C": 1649.05,
+        "laser_power_W": 69.17
+    },
+    {
+        "time_s": 39.2,
+        "melt_pool_temp_C": 1646.94,
+        "laser_power_W": 70.62
+    },
+    {
+        "time_s": 39.3,
+        "melt_pool_temp_C": 1647.85,
+        "laser_power_W": 68.41
+    },
+    {
+        "time_s": 39.4,
+        "melt_pool_temp_C": 1649.59,
+        "laser_power_W": 66.61
+    },
+    {
+        "time_s": 39.5,
+        "melt_pool_temp_C": 1649.44,
+        "laser_power_W": 67.68
+    },
+    {
+        "time_s": 39.6,
+        "melt_pool_temp_C": 1648.55,
+        "laser_power_W": 68.78
+    },
+    {
+        "time_s": 39.7,
+        "melt_pool_temp_C": 1649.73,
+        "laser_power_W": 66.8
+    },
+    {
+        "time_s": 39.8,
+        "melt_pool_temp_C": 1650.83,
+        "laser_power_W": 65.95
+    },
+    {
+        "time_s": 39.9,
+        "melt_pool_temp_C": 1648.45,
+        "laser_power_W": 69.61
+    },
+    {
+        "time_s": 40.0,
+        "melt_pool_temp_C": 1647.07,
+        "laser_power_W": 70.25
+    },
+    {
+        "time_s": 40.1,
+        "melt_pool_temp_C": 1646.86,
+        "laser_power_W": 69.86
+    },
+    {
+        "time_s": 40.2,
+        "melt_pool_temp_C": 1648.92,
+        "laser_power_W": 67.08
+    },
+    {
+        "time_s": 40.3,
+        "melt_pool_temp_C": 1649.59,
+        "laser_power_W": 67.25
+    },
+    {
+        "time_s": 40.4,
+        "melt_pool_temp_C": 1649.5,
+        "laser_power_W": 67.71
+    },
+    {
+        "time_s": 40.5,
+        "melt_pool_temp_C": 1646.74,
+        "laser_power_W": 71.29
+    },
+    {
+        "time_s": 40.6,
+        "melt_pool_temp_C": 1649.01,
+        "laser_power_W": 66.96
+    },
+    {
+        "time_s": 40.7,
+        "melt_pool_temp_C": 1649.04,
+        "laser_power_W": 68.06
+    },
+    {
+        "time_s": 40.8,
+        "melt_pool_temp_C": 1647.32,
+        "laser_power_W": 70.34
+    },
+    {
+        "time_s": 40.9,
+        "melt_pool_temp_C": 1646.92,
+        "laser_power_W": 70.04
+    },
+    {
+        "time_s": 41.0,
+        "melt_pool_temp_C": 1647.24,
+        "laser_power_W": 69.45
+    },
+    {
+        "time_s": 41.1,
+        "melt_pool_temp_C": 1649.3,
+        "laser_power_W": 66.94
+    },
+    {
+        "time_s": 41.2,
+        "melt_pool_temp_C": 1647.55,
+        "laser_power_W": 70.26
+    },
+    {
+        "time_s": 41.3,
+        "melt_pool_temp_C": 1649.12,
+        "laser_power_W": 67.36
+    },
+    {
+        "time_s": 41.4,
+        "melt_pool_temp_C": 1651.54,
+        "laser_power_W": 64.99
+    },
+    {
+        "time_s": 41.5,
+        "melt_pool_temp_C": 1652.16,
+        "laser_power_W": 65.36
+    },
+    {
+        "time_s": 41.6,
+        "melt_pool_temp_C": 1649.35,
+        "laser_power_W": 69.34
+    },
+    {
+        "time_s": 41.7,
+        "melt_pool_temp_C": 1647.19,
+        "laser_power_W": 70.77
+    },
+    {
+        "time_s": 41.8,
+        "melt_pool_temp_C": 1645.52,
+        "laser_power_W": 71.89
+    },
+    {
+        "time_s": 41.9,
+        "melt_pool_temp_C": 1646.25,
+        "laser_power_W": 70.16
+    },
+    {
+        "time_s": 42.0,
+        "melt_pool_temp_C": 1645.24,
+        "laser_power_W": 71.88
+    },
+    {
+        "time_s": 42.1,
+        "melt_pool_temp_C": 1648.59,
+        "laser_power_W": 67.04
+    },
+    {
+        "time_s": 42.2,
+        "melt_pool_temp_C": 1648.95,
+        "laser_power_W": 68.26
+    },
+    {
+        "time_s": 42.3,
+        "melt_pool_temp_C": 1650.61,
+        "laser_power_W": 66.26
+    },
+    {
+        "time_s": 42.4,
+        "melt_pool_temp_C": 1649.34,
+        "laser_power_W": 68.75
+    },
+    {
+        "time_s": 42.5,
+        "melt_pool_temp_C": 1649.48,
+        "laser_power_W": 67.94
+    },
+    {
+        "time_s": 42.6,
+        "melt_pool_temp_C": 1646.95,
+        "laser_power_W": 71.33
+    },
+    {
+        "time_s": 42.7,
+        "melt_pool_temp_C": 1645.33,
+        "laser_power_W": 72.22
+    },
+    {
+        "time_s": 42.8,
+        "melt_pool_temp_C": 1645.4,
+        "laser_power_W": 71.37
+    },
+    {
+        "time_s": 42.9,
+        "melt_pool_temp_C": 1643.84,
+        "laser_power_W": 73.49
+    },
+    {
+        "time_s": 43.0,
+        "melt_pool_temp_C": 1642.96,
+        "laser_power_W": 73.93
+    },
+    {
+        "time_s": 43.1,
+        "melt_pool_temp_C": 1645.41,
+        "laser_power_W": 70.35
+    },
+    {
+        "time_s": 43.2,
+        "melt_pool_temp_C": 1643.69,
+        "laser_power_W": 73.87
+    },
+    {
+        "time_s": 43.3,
+        "melt_pool_temp_C": 1644.96,
+        "laser_power_W": 71.41
+    },
+    {
+        "time_s": 43.4,
+        "melt_pool_temp_C": 1647.49,
+        "laser_power_W": 68.77
+    },
+    {
+        "time_s": 43.5,
+        "melt_pool_temp_C": 1649.9,
+        "laser_power_W": 66.92
+    },
+    {
+        "time_s": 43.6,
+        "melt_pool_temp_C": 1650.46,
+        "laser_power_W": 67.39
+    },
+    {
+        "time_s": 43.7,
+        "melt_pool_temp_C": 1648.09,
+        "laser_power_W": 70.77
+    },
+    {
+        "time_s": 43.8,
+        "melt_pool_temp_C": 1649.24,
+        "laser_power_W": 68.09
+    },
+    {
+        "time_s": 43.9,
+        "melt_pool_temp_C": 1649.2,
+        "laser_power_W": 68.73
+    },
+    {
+        "time_s": 44.0,
+        "melt_pool_temp_C": 1648.69,
+        "laser_power_W": 69.39
+    },
+    {
+        "time_s": 44.1,
+        "melt_pool_temp_C": 1650.89,
+        "laser_power_W": 66.26
+    },
+    {
+        "time_s": 44.2,
+        "melt_pool_temp_C": 1648.82,
+        "laser_power_W": 70.07
+    },
+    {
+        "time_s": 44.3,
+        "melt_pool_temp_C": 1646.78,
+        "laser_power_W": 71.71
+    },
+    {
+        "time_s": 44.4,
+        "melt_pool_temp_C": 1647.79,
+        "laser_power_W": 69.41
+    },
+    {
+        "time_s": 44.5,
+        "melt_pool_temp_C": 1648.71,
+        "laser_power_W": 68.72
+    },
+    {
+        "time_s": 44.6,
+        "melt_pool_temp_C": 1649.59,
+        "laser_power_W": 68.04
+    },
+    {
+        "time_s": 44.7,
+        "melt_pool_temp_C": 1647.6,
+        "laser_power_W": 71.1
+    },
+    {
+        "time_s": 44.8,
+        "melt_pool_temp_C": 1647.79,
+        "laser_power_W": 69.88
+    },
+    {
+        "time_s": 44.9,
+        "melt_pool_temp_C": 1649.48,
+        "laser_power_W": 67.78
+    },
+    {
+        "time_s": 45.0,
+        "melt_pool_temp_C": 1651.5,
+        "laser_power_W": 65.98
+    },
+    {
+        "time_s": 45.1,
+        "melt_pool_temp_C": 1650.86,
+        "laser_power_W": 67.82
+    },
+    {
+        "time_s": 45.2,
+        "melt_pool_temp_C": 1649.48,
+        "laser_power_W": 69.29
+    },
+    {
+        "time_s": 45.3,
+        "melt_pool_temp_C": 1649.62,
+        "laser_power_W": 68.43
+    },
+    {
+        "time_s": 45.4,
+        "melt_pool_temp_C": 1648.15,
+        "laser_power_W": 70.42
+    },
+    {
+        "time_s": 45.5,
+        "melt_pool_temp_C": 1648.6,
+        "laser_power_W": 69.13
+    },
+    {
+        "time_s": 45.6,
+        "melt_pool_temp_C": 1649.79,
+        "laser_power_W": 67.8
+    },
+    {
+        "time_s": 45.7,
+        "melt_pool_temp_C": 1651.2,
+        "laser_power_W": 66.55
+    },
+    {
+        "time_s": 45.8,
+        "melt_pool_temp_C": 1651.84,
+        "laser_power_W": 66.41
+    },
+    {
+        "time_s": 45.9,
+        "melt_pool_temp_C": 1649.49,
+        "laser_power_W": 69.78
+    },
+    {
+        "time_s": 46.0,
+        "melt_pool_temp_C": 1649.67,
+        "laser_power_W": 68.38
+    },
+    {
+        "time_s": 46.1,
+        "melt_pool_temp_C": 1647.28,
+        "laser_power_W": 71.61
+    },
+    {
+        "time_s": 46.2,
+        "melt_pool_temp_C": 1650.03,
+        "laser_power_W": 66.84
+    },
+    {
+        "time_s": 46.3,
+        "melt_pool_temp_C": 1648.91,
+        "laser_power_W": 69.67
+    },
+    {
+        "time_s": 46.4,
+        "melt_pool_temp_C": 1647.01,
+        "laser_power_W": 71.62
+    },
+    {
+        "time_s": 46.5,
+        "melt_pool_temp_C": 1646.65,
+        "laser_power_W": 71.17
+    },
+    {
+        "time_s": 46.6,
+        "melt_pool_temp_C": 1649.95,
+        "laser_power_W": 66.69
+    },
+    {
+        "time_s": 46.7,
+        "melt_pool_temp_C": 1649.55,
+        "laser_power_W": 68.88
+    },
+    {
+        "time_s": 46.8,
+        "melt_pool_temp_C": 1650.76,
+        "laser_power_W": 67.09
+    },
+    {
+        "time_s": 46.9,
+        "melt_pool_temp_C": 1653.25,
+        "laser_power_W": 64.43
+    },
+    {
+        "time_s": 47.0,
+        "melt_pool_temp_C": 1650.63,
+        "laser_power_W": 69.07
+    },
+    {
+        "time_s": 47.1,
+        "melt_pool_temp_C": 1650.99,
+        "laser_power_W": 67.28
+    },
+    {
+        "time_s": 47.2,
+        "melt_pool_temp_C": 1650.97,
+        "laser_power_W": 67.48
+    },
+    {
+        "time_s": 47.3,
+        "melt_pool_temp_C": 1651.5,
+        "laser_power_W": 66.77
+    },
+    {
+        "time_s": 47.4,
+        "melt_pool_temp_C": 1652.82,
+        "laser_power_W": 65.29
+    },
+    {
+        "time_s": 47.5,
+        "melt_pool_temp_C": 1651.08,
+        "laser_power_W": 68.19
+    },
+    {
+        "time_s": 47.6,
+        "melt_pool_temp_C": 1649.69,
+        "laser_power_W": 69.14
+    },
+    {
+        "time_s": 47.7,
+        "melt_pool_temp_C": 1650.3,
+        "laser_power_W": 67.65
+    },
+    {
+        "time_s": 47.8,
+        "melt_pool_temp_C": 1648.77,
+        "laser_power_W": 69.95
+    },
+    {
+        "time_s": 47.9,
+        "melt_pool_temp_C": 1649.77,
+        "laser_power_W": 67.89
+    },
+    {
+        "time_s": 48.0,
+        "melt_pool_temp_C": 1647.21,
+        "laser_power_W": 71.74
+    },
+    {
+        "time_s": 48.1,
+        "melt_pool_temp_C": 1650.91,
+        "laser_power_W": 65.65
+    },
+    {
+        "time_s": 48.2,
+        "melt_pool_temp_C": 1650.75,
+        "laser_power_W": 67.69
+    },
+    {
+        "time_s": 48.3,
+        "melt_pool_temp_C": 1653.12,
+        "laser_power_W": 64.51
+    },
+    {
+        "time_s": 48.4,
+        "melt_pool_temp_C": 1651.58,
+        "laser_power_W": 67.67
+    },
+    {
+        "time_s": 48.5,
+        "melt_pool_temp_C": 1649.28,
+        "laser_power_W": 69.9
+    },
+    {
+        "time_s": 48.6,
+        "melt_pool_temp_C": 1646.82,
+        "laser_power_W": 71.98
+    },
+    {
+        "time_s": 48.7,
+        "melt_pool_temp_C": 1650.32,
+        "laser_power_W": 66.2
+    },
+    {
+        "time_s": 48.8,
+        "melt_pool_temp_C": 1648.61,
+        "laser_power_W": 70.19
+    },
+    {
+        "time_s": 48.9,
+        "melt_pool_temp_C": 1650.2,
+        "laser_power_W": 67.26
+    },
+    {
+        "time_s": 49.0,
+        "melt_pool_temp_C": 1649.83,
+        "laser_power_W": 68.55
+    },
+    {
+        "time_s": 49.1,
+        "melt_pool_temp_C": 1651.77,
+        "laser_power_W": 65.81
+    },
+    {
+        "time_s": 49.2,
+        "melt_pool_temp_C": 1653.96,
+        "laser_power_W": 63.9
+    },
+    {
+        "time_s": 49.3,
+        "melt_pool_temp_C": 1650.82,
+        "laser_power_W": 69.07
+    },
+    {
+        "time_s": 49.4,
+        "melt_pool_temp_C": 1649.58,
+        "laser_power_W": 69.11
+    },
+    {
+        "time_s": 49.5,
+        "melt_pool_temp_C": 1647.12,
+        "laser_power_W": 71.73
+    },
+    {
+        "time_s": 49.6,
+        "melt_pool_temp_C": 1649.11,
+        "laser_power_W": 67.91
+    },
+    {
+        "time_s": 49.7,
+        "melt_pool_temp_C": 1649.72,
+        "laser_power_W": 68.12
+    },
+    {
+        "time_s": 49.8,
+        "melt_pool_temp_C": 1648.25,
+        "laser_power_W": 70.35
+    },
+    {
+        "time_s": 49.9,
+        "melt_pool_temp_C": 1651.07,
+        "laser_power_W": 65.94
+    }
+]
