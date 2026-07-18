@@ -4,9 +4,6 @@ PUHU Uydu Projesi - Isıl-Yapısal Tasarım Ekibi
 5.1 / 5.2 Araştırma Sorusu - Soru 9
 Panel Kalınlığının Yapısal ve Isıl Parametreler Üzerindeki
 Zincirleme Etkisini Gösteren Sistem Etkileşim Diyagramı
-
-Gereksinim: pip install matplotlib
-Çalıştırma: python panel_diyagrami.py
 =====================================================================
 """
 
